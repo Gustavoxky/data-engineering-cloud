@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"airflow","Source":"./modules/airflow","Dir":"modules/airflow"},{"Key":"kafka","Source":"./modules/kafka","Dir":"modules/kafka"},{"Key":"redshift","Source":"./modules/redshift","Dir":"modules/redshift"},{"Key":"s3","Source":"./modules/s3","Dir":"modules/s3"},{"Key":"spark","Source":"./modules/spark","Dir":"modules/spark"}]}

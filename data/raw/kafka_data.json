@@ -1,0 +1,17 @@
+[
+    {
+        "sensor_id": "A123",
+        "value": 23.4,
+        "timestamp": "2024-12-19T12:00:00Z"
+    },
+    {
+        "sensor_id": "A124",
+        "value": 19.8,
+        "timestamp": "2024-12-19T12:05:00Z"
+    },
+    {
+        "sensor_id": "A125",
+        "value": null,
+        "timestamp": "2024-12-19T12:10:00Z"
+    }
+]
